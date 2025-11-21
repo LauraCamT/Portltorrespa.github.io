@@ -1,6 +1,6 @@
 ---
 title: "How to disable all AI features in VSCode"
-description: "Disable all the recent AI features in VSCode with this new setting"
+description: "Disable all the recent AI features in VSCode with this new setting."
 pubDate: "Nov 18 2025"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "I made a React Snippets extension for Zed"
-description: "Ported VSCode 'ES7+ React/Redux/React-Native snippets' extension's snippets into Zed"
+description: "Ported VSCode 'ES7+ React/Redux/React-Native snippets' extension's snippets into Zed."
 pubDate: "Nov 21 2025"
 ---
 
