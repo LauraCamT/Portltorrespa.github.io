@@ -47,7 +47,7 @@ export const about: About = {
   // parses html
   headLine:
     "Hola, Soy Camila Torres <span class='fancy-highlight font-black'>Shone Binu</span>",
-  tagLine: "Software Engineer / Full Stack Developer",
+  tagLine: "Ingeniera de Sistemas y Analista de Requerimientos Full Stack Developer",
   profilePic: ProfilePic,
   // parses html
   description:
