@@ -46,7 +46,7 @@ export const footer: Footer = {
 export const about: About = {
   // parses html
   headLine:
-    "Hola, Soy Bbum <span class='fancy-highlight font-black'>Shone Binu</span>",
+    "Hola, Soy Camila Torres <span class='fancy-highlight font-black'>Shone Binu</span>",
   tagLine: "Software Engineer / Full Stack Developer",
   profilePic: ProfilePic,
   // parses html
